@@ -1,7 +1,9 @@
+#define _DEFAULT_SOURCE
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
 #include "hanoi.h"
+
 
 int SPEED_LEVEL = 5;
 
