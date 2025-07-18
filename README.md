@@ -56,7 +56,6 @@ You can adjust these constants in `hanoi.h`:
 | Constant | Purpose |
 | -------- | ------- |
 | DONUT_COUNT | Number of donuts (default 10) |
-| TOWER_COUNT | Number of towers (default 3) |
 | SPEED_MIN_DELAY_US / SPEED_MAX_DELAY_US | Animation delay bounds |
 | TOWER_SPACING_COLUMNS | Horizontal spacing between towers |
 | DONUT_MIN_VISUAL_WIDTH | Minimum donut width in columns |
