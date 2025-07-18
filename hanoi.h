@@ -9,7 +9,7 @@
 // Metadata
 #define VERSION "1.0"
 #define AUTHOR  "Kostadin Slavov a.k.a ThunderHorn"
-#define TAGS    "Fakultet Avtomatika; Grupa 91; Faculteten Nomer: 012224011"
+#define TAGS    "Fakultet Avtomatika; Grupa 91; Fakulteten Nomer: 012224011"
 
 #define DONUT_COUNT              5
 #define TOWER_COUNT              3

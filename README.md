@@ -15,7 +15,7 @@
 
 ### 📝 Author
 Kostadin Slavov a.k.a ThunderHorn  
-Fakultet Avtomatika; Grupa 91; Faculteten Nomer: 012224011  
+Fakultet Avtomatika; Grupa 91; Fakulteten Nomer: 012224011  
 Version: 1.0
 
 ---
